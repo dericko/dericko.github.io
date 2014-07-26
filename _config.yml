@@ -1,14 +1,12 @@
 # Site settings
 title: Derick 
 email: olsonderick@gmail.com 
-description:
+description: Hi there! This site is home to my projects, interests, and various dabblings.
 baseurl: ""
 url: "http://www.derickolson.com"
 twitter_username: dericksaid 
 github_username: dericko 
 linkedin_username: derickolson
-
-# Configuration
 
 # Build settings
 markdown: kramdown

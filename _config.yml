@@ -1,11 +1,12 @@
 # Site settings
 title: Derick 
 email: olsonderick@gmail.com 
-description: "Hi there! Welcome to my humble blog, home of posts, projects, and various musings."
+description:
 baseurl: ""
 url: "http://www.derickolson.com"
 twitter_username: dericksaid 
 github_username: dericko 
+linkedin_username: olsonderick
 
 # Configuration
 

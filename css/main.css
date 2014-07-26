@@ -60,6 +60,13 @@ a:visited { color: #205caa; }
   z-index: 1;
 }
 
+.site-logo {
+  display: block;
+  float: left;
+  position: relative;
+  z-index: 1;
+}
+
 .site-nav {
   float: right;
   line-height: 56px;
@@ -123,7 +130,8 @@ a:visited { color: #205caa; }
 }
 
 .github-icon-svg,
-.twitter-icon-svg {
+.twitter-icon-svg,
+.linkedin-icon-png {
   display: inline-block;
   width: 16px;
   height: 16px;

@@ -1,0 +1,17 @@
+---
+layout: page
+title: Writing
+permalink: /writing/
+---
+
+<div class="home">
+
+  <ul class="posts">
+    {% for post in site.categories["writing"] %}
+      <li>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>

@@ -1,0 +1,13 @@
+---
+layout: post
+title: At the Wissahickon
+description: "That one time we went fishing (e.g. stared at the creek for several hours)"
+categories: writing nonfiction
+tags: travel
+---
+__The creek: it's alive.__ It must be the air that gives it life. I sit in watch over each silver wavelet as it laps in mouthfuls of air before spitting them back out in an array of light ripples. Beams of late summer light slide between the branches and leaves desperately holding onto their pre-autumn pigments. Reflecting on the underbrush, the beams illuminate air particles hanging lazily above the water. Descending further, the beams kiss the tips of each ripple, painting miniature whitecaps complementing the reflected image of the scene below. Under the surface, each movement is coordinated: the rounded stones conduct the undulations downstream with intention and direction so perfect, that the rolling waters cannot help but come to life. With shallow, simultaneous breaths, the entire surface sips at the illuminated air, water undulating with each cycle, and creating the undying white noise of brook over stone.
+
+Perched upon the remains of a great stone wall, I let legs swing below, allow them to dance over the waters, allow them to tempt a gentle push-off, into the cool wetness below.
+__The water is cunning.__ Above, I see that it is a single body, joyful, harmless. And then a single yellowed leaf, the grim reminder of an approaching Autumn, dotted with brown spots of death, the remnants of an aphid raid, flows past just beneath the surface with such rapidity that I question whether or not my eyes deceived me. The creek holds a secret. Beneath each sunlit crest there is a deep shadow beneath the dancing facade. In the water lies a hidden force, pushing ever forward, maintaining the illusion that this rolling surface is performing for my benefit. It invites me to press off against the wall, to enjoy its cool embrace, only to drag me under and and carry me onwards, toward the fate of the yellowed leaf.
+
+We had arrived with specific plans. The story is simple: we came, we sat, we fished. More specifically, we sat around for hours and failed to catch anything, enjoyed the water and each other's company, and then returned home somewhat unsatisfied. To recall a location purely in the context of the actions experienced therein is to limit the scope of memory to an experience with a beginning, middle, and end. It opens with intention to close, forcing feigned completeness. Can we not embrace a the obscurity of past recollection and fall in love with the fiction of memory, look fondly down upon the creek, that unintelligible delight, and be satisfied in its uncertain haze?

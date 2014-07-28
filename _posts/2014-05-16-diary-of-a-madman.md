@@ -3,7 +3,7 @@ layout: post
 title: Diary Of A Madman
 description: "A spoken translation of Lu Xun’s Diary Of A Madman that maintains the sound and order of the original text, with sounds transcribed into a language poem. Part of an ongoing project."
 categories: writing poetry
-tags: chinese featured
+tags: chinese
 ---
 > After the initial block translation of [Diary Of A Madman][madman-english], I went through once, improving coherence with homophones and by adding punctuation and line endings. Each individual "poem" (stumbled upon through editing) is divided by bold text. Poem titles come from the text itself the same way that the verse does.  
 
@@ -11,7 +11,8 @@ tags: chinese featured
 
 [madman-english]: http://www.marxists.org/archive/lu-xun/1918/04/x01.htm
 [madman-chinese]: http://www.zhongwen.com/kuangren.htm
-###### My June Coon
+
+__My June Coon__
 
 jogging and scheming 
 
@@ -57,7 +58,7 @@ will learn to yodel? hang tangerine-y?
 
 put your ear away 
 
-###### Moss A City, Bury Your Face
+__Moss A City, Bury Your Face__
 
 Issues sore should genial 
 
@@ -137,7 +138,7 @@ been choked over
 
 wrung down
 
-###### Drag(on) Show 
+__Drag(on) Show__
 
 Determine: bouge' or doughy? totally
 
@@ -213,7 +214,7 @@ hand her chairs
 
 on sheen warming bails of just many a lousy chowder
 
-###### Son Want Some Juncture? 
+__Son Want Some Juncture?__
 
 shape your jowl 
 
@@ -295,7 +296,7 @@ mention leader
 
 he got the errant gate ajar, thus 
 
-###### Elegy Girl 
+__Elegy Girl__
 
 In Vienna, shooter dashing and 
 
@@ -319,7 +320,7 @@ why me? end in a--
 
 warrant (he knew)
 
-###### A Young Sung Chile 
+__A Young Sung Chile__
 
 whats holding chunder? 
 
@@ -435,7 +436,7 @@ jungle, why Incan warrior should rent
 
 a man 
 
-###### Saying Ouch A While (Die Young)
+__Saying Ouch A While (Die Young)__
 
 You pushed me in: a bug-eyed erasure
 
@@ -531,7 +532,7 @@ why be boohoo sigh
 
 fun slightly?
 
-###### Anon, Gate Wall
+__Anon, Gate Wall__
 
 much worry be worry
 

@@ -7,6 +7,7 @@ url: "http://www.derickolson.com"
 twitter_username: dericksaid 
 github_username: dericko 
 linkedin_username: derickolson
+highlighter: pygments
 
 # Build settings
 markdown: kramdown

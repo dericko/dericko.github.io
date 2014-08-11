@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Traveling Nowhere
+title: "Traveling To Places and Writing and Stuff"
 description: "As I prepare for a summer in Shanghai, I brace myself for the struggle of traveling-without-being-too-touristy-but-still-wanting-to-see-cool-things-and-not-be-a-self-righteous-ass."
 categories: blog
 tags: travel featured

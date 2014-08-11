@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yippee Happy Travel Blog! - Off to Shanghai
-description: "Off to Shanghai."
+description: "Off to Shanghai, with a real live happy travel blog, yippee"
 categories: blog
 tags: travel
 ---

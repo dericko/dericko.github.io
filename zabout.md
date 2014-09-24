@@ -6,21 +6,41 @@ permalink: /resume/
 
 Here's what I've been up to lately:
 
+Current classes...
+
+- Fiction Writing (ENGL112)
+
+- Automata+Computability (CIS262)
+
+- Unix/Linux Skills (CIS191)
+
+- Data Structures+Algorithms (CIS121)
+
+- Spoken Chinese (CHIN371)
+
+- Guitar (MUSC005)
+
+
+Current Projects...
+
+- Roommates iOS app (communication + payments)
+
+
 __2014__    
 
-_Teaching Assistant_ - CIS120: Programming Languages and Techniques I
+_Teaching Assistant_ - CIS120: Programming Languages and Techniques (current)
 
-> This fall, I'll be co-leading weekly recitations of 20 students. I hope to learn new ways of approaching problems by guiding others and by working with a brilliant team of TAs. It's gonna be a blast!
+> Lead weekly recitations of 20 students on topics from OCaml/functional programming, program design in Java, and test-driven development. Part of an awesome team of undergrad TAs.
 
 _iOS Software Engineer Intern_ - Capvision Partners, Shanghai, China
 
-> I'm currently writing an iOS app to help industry experts read and share  news that matters in an multi-functional app that keeps members up-to-date with new events, projects, and opportunities. I'm currently finishing up the networking, and onboarding the next developer who will bring the app to launch later in 2014
+> Wrote an iOS app to help industry experts read and share news that matters in an app that keeps members up-to-date with events, projects, and project opportunities. Finished the summer by onboarding the next developer with a planned launch by the end of 2014
 
-> Over the past two months, I've collaborated with all-Chinese Marketing, Design, and IT team to lay out and develop this app
+> For ten weeks, I collaborated with all-Chinese Marketing, Design, and IT team to lay out and develop the platform
 
-> I've designed and implemented a networking client backed by Core Data and Restkit to persist JSON responses to a locally stored SQLite database, and am currently working with the PHP guys to specify a RESTful API for the client.
+> Implemented a networking client backed by Core Data and Restkit to persist JSON responses to a locally stored SQLite database, worked with networking guys to specify RESTful API for the client.
 
-> In the process, I've made some awesome friends, learned the best songs for Chinese karaoke, and really upped my badminton game
+> In the process, I made some awesome friends, learned the best songs for Chinese karaoke, and really upped my badminton game
 
 _Treasurer_ - oikos Penn
 
@@ -57,7 +77,6 @@ _Campus Photographer_ - Penn Vice Provost of University Life
 _Guitarist_ - Cadaveric, a death metal band from Modesto, CA.
 
 _Event Photographer_ - DLO Photo, MK Photography
-
 
 __Education__
 

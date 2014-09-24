@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Resume
+permalink: /resume/
 ---
 
 Here's what I've been up to lately:
@@ -10,7 +10,7 @@ __2014__
 
 _Teaching Assistant_ - CIS120: Programming Languages and Techniques I
 
-> This fall, I'll be leading weekly recitations of 10-20 students. I hope to learn new ways of approaching problems by guiding others and by working with a brilliant team of TAs. It's gonna be a blast!
+> This fall, I'll be co-leading weekly recitations of 20 students. I hope to learn new ways of approaching problems by guiding others and by working with a brilliant team of TAs. It's gonna be a blast!
 
 _iOS Software Engineer Intern_ - Capvision Partners, Shanghai, China
 

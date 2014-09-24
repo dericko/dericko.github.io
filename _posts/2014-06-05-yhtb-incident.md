@@ -3,7 +3,7 @@ layout: post
 title: "YHTB 2: An Incident"
 description: "Listen: There are murmerings, a disturbance in the neighborhood. The curtains are drawn. It is not yet six; but still, I hear them."
 categories: blog
-tags: travel
+tags: travel featured
 ---
 
 __There was an early morning incident.__
@@ -18,7 +18,7 @@ Perhaps he is their leader. An opposition party: a rally against increasing vege
 
 I was still in bed. I eased over to the window and saw a crowd, as massive as I had imagined, just outside my building. I pressed play, trying my best to keep the phone camera pointed straight without missing the real scene in front of me.
 
-An old man stood defiantly, as young man yelled. There was a response. The young man pushed the old man, forcing him to a seat on the bench behind him. Nobody objected to this.
+An old man stood defiantly, as a young man yelled. There was a response. The young man pushed the old man, forcing him to a seat on the bench behind him. Nobody objected to this.
 
 People gathered in close, a few took turns shouting at the man. For a moment, nobody seemed to know what to do. 
 

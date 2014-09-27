@@ -1,6 +1,7 @@
 # Site settings
 title: Derick 
-email: olsonderick@gmail.com 
+email: olsonderick@gmail.com
+email_name: olsonderick 
 description: "Hi there! My name's Derick Olson. I'm a student of languages (imperative, functional, figurative, semanto-phonetic)."
 baseurl: ""
 url: "http://www.derickolson.com"

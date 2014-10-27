@@ -3,7 +3,7 @@ layout: post
 title: "Concerning an Early Morning Encounter, Or, The Marriage of Bosse-de-Nage"
 description: "Anyone familiar with Alfred Jarry must know about his dog-faced baboon Bosse-de-Nage, and will hopefully appreciate my attempt at marrying off this odd character. Anyone unfamiliar with Alfred Jarry may not know what to think of it. But it was too tempting not to give Jarry's eccentric writing style a try, so here it is."
 categories: writing fiction
-tags: pataphysics featured
+tags: pataphysics
 ---
 
 Plunged in dagian half-light, we awoke upon desks on elbowed pillows: seat-backs upright, ankles shackled to the floor.

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Front Seat Driver"
-description: "Second short story from this semester's Fiction Writing Workshop"
 categories: writing fiction
 tags: featured
 ---

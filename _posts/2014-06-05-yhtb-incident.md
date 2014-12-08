@@ -20,7 +20,7 @@ I was still in bed. I eased over to the window and saw a crowd, as massive as I 
 
 An old man stood defiantly, as a young man yelled. There was a response. The young man pushed the old man, forcing him to a seat on the bench behind him. Nobody objected to this.
 
-People gathered in close, a few took turns shouting at the man. For a moment, nobody seemed to know what to do. 
+People gathered in close, a few took turns shouting at the man. For a moment, nobody seemed to know what to do.
 
 And then the police showed up. An officer addressed the old man, but neither responded further. The man sat back, and smoked a cigarrette. The other officers attempted to disperse the crowd as it pressed inwards. And the seemed to be at a loss.
 

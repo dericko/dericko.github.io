@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Curséd Siracha! (your green tip extends too high)
-description: "This is what hapens when I accidently stay home all day"
+description: "Unpleasantness? It's not a place, man; it's a state of mind."
 categories: writing nonfiction
-tags: travel featured
+tags: travel
 ---
 
 __Unpleasantness? It's not a place, man; it's a state of mind.__

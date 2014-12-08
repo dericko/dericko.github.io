@@ -2,6 +2,7 @@
 layout: post
 title: "Front Seat Driver"
 categories: writing fiction
+description: "A short story"
 tags: featured
 ---
 

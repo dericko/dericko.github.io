@@ -34,11 +34,17 @@ Clarence shifts his weight on and off his heels, feeling the breeze against his 
 
 Dayna reaches the roof's ledge and pulls herself up slowly, anticipating the usual rough handed officer to pull her the rest of the way, making comments about how such a sweet little thing like her shouldn't be up so high all alone. But there are no rough hands today. As she reaches the top, she rolls onto her back and looks at the sky with a smile.
 She hears a voice, “Jean-Luc, we have a visitor! How nice of you to join us, love.”
+
 Dayna jolts up and turns toward the voice. She lets out a snort. A shirtless man with flowing hair, in green tights not unlike her own, stands on the ledge some twenty feet away from her. He is tall and muscular, although his grey highlights and sagging belly tell of better days. Next to him, a skinny man in dressed in black holds a set of ropes, harnesses, and carabineers.
+
 The Fisk Tower has steel reinforced roof-access door with a north-facing opening. In three minutes, the underpaid Fisk Civil Disturbance Team will stumble through. A loudspeaker affixed to the wall above the door informs Dayna of this.
+
 “I am afraid we must be going. Come Jean-Luc,” says the bare-chested man.
+
 Dayna reminds herself that she has no reason to worry. A climb always ends in an arrest. Yet something about the loudspeaker has made her uneasy. She looks down at the crowd. Men in uniforms have created a perimeter, closing all access to the north wall.
+
 The bare-chested man approaches Dayna and stands on the ledge beside her and asks, “Why do you climb, child?”
+
 Dayna shrugs, “I've always been a lousy bartender.”
 
 As the door opens, Dayna Bishop and Clarence Lawrence stand together on the ledge, beneath the blue gaze of God.

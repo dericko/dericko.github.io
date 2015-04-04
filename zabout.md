@@ -8,29 +8,37 @@ Here's what I've been up to lately:
 
 Current classes...
 
-- Fiction Writing (ENGL112)
+- Fiction Writer's Workshop (ENGL115)
 
-- Automata+Computability (CIS262)
+- Algorithms (CIS320)
 
-- Unix/Linux Skills (CIS191)
+- Computer Systems (CIS240)
 
-- Data Structures+Algorithms (CIS121)
+- Javascript Web Development (CIS197)
 
-- Spoken Chinese (CHIN371)
+- iOS Development (CIS195)
 
-- Guitar (MUSC005)
+- Linear Algebra (MATH313)
+
+- Jazz History/Style (MUSC030)
+
+- Jazz Guitar (MUSC005)
 
 
 Current Projects...
 
+- Octowriter (a git-based text editor for prose)
 - Roommates iOS app (communication + payments)
 
-
-__2014__    
+__2015__
 
 _Teaching Assistant_ - CIS120: Programming Languages and Techniques (current)
 
 > Lead weekly recitations of 20 students on topics from OCaml/functional programming, program design in Java, and test-driven development. Part of an awesome team of undergrad TAs.
+
+__2014__    
+
+
 
 _iOS Software Engineer Intern_ - Capvision Partners, Shanghai, China
 

@@ -33,6 +33,10 @@ Current Projects...
 
 __2015__
 
+_Software Engineering Intern_ - Foursquare, NYC
+
+> Can't wait to get started at Foursquare this summer!
+
 _Teaching Assistant_ - CIS120: Programming Languages and Techniques (current)
 
 > Lead weekly recitations of 20 students on topics from OCaml/functional programming, program design in Java, and test-driven development. Part of an awesome team of undergrad TAs.

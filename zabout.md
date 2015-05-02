@@ -2,6 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
+published: true
 ---
 
 Here's what I've been up to lately:
@@ -27,7 +28,7 @@ Current classes...
 
 Current Projects...
 
-- Octowriter (a git-based text editor for prose)
+- Octowriter (a version controlled text editor for prose)
 - Roommates iOS app (communication + payments)
 
 __2015__

@@ -7,7 +7,7 @@ published: true
 
 Here's what I've been up to lately:
 
-Current classes...
+Recent classes...
 
 - Fiction Writer's Workshop (ENGL115)
 
@@ -33,17 +33,13 @@ Current Projects...
 
 __2015__
 
-_Software Engineering Intern_ - Foursquare, NYC
-
-> Can't wait to get started at Foursquare this summer!
-
-_Teaching Assistant_ - CIS120: Programming Languages and Techniques (current)
-
+_Software Engineering Intern_ - Foursquare, New York (current)
+> Working on an amazubg team to add features to Pilgrim location model
+ 
+_Teaching Assistant_ - CIS120: Programming Languages and Techniques
 > Lead weekly recitations of 20 students on topics from OCaml/functional programming, program design in Java, and test-driven development. Part of an awesome team of undergrad TAs.
 
 __2014__    
-
-
 
 _iOS Software Engineer Intern_ - Capvision Partners, Shanghai, China
 

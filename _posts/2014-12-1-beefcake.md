@@ -2,7 +2,7 @@
 layout: post
 title: "Beefcake"
 categories: writing fiction
-description: "A short story"
+description: "A short story about the passing of the torch"
 tags: featured
 ---
 

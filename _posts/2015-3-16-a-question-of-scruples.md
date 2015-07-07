@@ -2,7 +2,7 @@
 layout: post
 title: "A Question of Scruples"
 categories: writing fiction
-description: "An incomplete short story"
+description: "An incomplete short story about health and wellness"
 tags: featured
 ---
 

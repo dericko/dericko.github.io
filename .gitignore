@@ -1,2 +1,5 @@
 _site
 _drafts
+.DS_Store
+_posts/.DS_Store
+_images/.DS_Store

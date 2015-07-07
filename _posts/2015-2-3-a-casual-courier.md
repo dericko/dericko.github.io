@@ -2,7 +2,7 @@
 layout: post
 title: "A Casual Courier"
 categories: writing fiction
-description: "A short story"
+description: "A short story about an incident on the train"
 tags: featured
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "The Trousers Of Aganon"
 description: "A short story about a father, son, and their religion. Written as a letter from the man's lover."
 categories: writing fiction
-tags: featured
+tags:
 ---
 
 > Pastor Davies, I must ask you to forgive my dear friend Aganon.

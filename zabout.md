@@ -7,37 +7,35 @@ published: true
 
 Here's what I've been up to lately:
 
-Recent classes...
+Current classes...
 
-- Fiction Writer's Workshop (ENGL115)
+- Programming and Problem Solving
 
-- Algorithms (CIS320)
+- Operating Systems
 
-- Computer Systems (CIS240)
+- Daoism research seminar
 
-- Javascript Web Development (CIS197)
+- Languages and Scripts of China
 
-- iOS Development (CIS195)
+- Modern American Fiction
 
-- Linear Algebra (MATH313)
-
-- Jazz History/Style (MUSC030)
-
-- Jazz Guitar (MUSC005)
+- Samba Drumming
 
 
 Current Projects...
 
-- Octowriter (a version controlled text editor for prose)
-- Roommates iOS app (communication + payments)
+- Sina Weibo (like Twitter for China) textual analysis
 
 __2015__
 
+_Teaching Assistant_ - CIS262: Automata, Computability, and Complexity
+> Revisiting some of my favorite topics in Theory of Computation by helping students with material
+
 _Software Engineering Intern_ - Foursquare, New York (current)
-> Working on an amazubg team to add features to Pilgrim location model
+> Worked with an awesome team to help snap phones to venue locations, and send location context-based notifications
  
 _Teaching Assistant_ - CIS120: Programming Languages and Techniques
-> Lead weekly recitations of 20 students on topics from OCaml/functional programming, program design in Java, and test-driven development. Part of an awesome team of undergrad TAs.
+> Led weekly recitations of 20 students on topics from OCaml/functional programming, program design in Java, and test-driven development. Part of an awesome team of undergrad TAs.
 
 __2014__    
 

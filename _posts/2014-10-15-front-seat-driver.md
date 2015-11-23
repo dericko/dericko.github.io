@@ -30,7 +30,7 @@ Of course Marco rolled down the window and shouted some offensive shit at them, 
 I think I missed the turn but I don’t really remember. Marco said I did, but he also gave shitty directions. We’d always be halfway through the intersection when he’d scream: “turn left!” But he did good for a drunk person I guess.
 
 We ran out of beers and still couldn’t find the taco place, so we finally turned onto McAllister Ave., a main-looking street, where there might be a spot for food. I saw the neon sign for Sonic and hit Marco in the chest since he was dozing off a little. He snapped up and we got ready to feast.
-We had two of those all-you-can-mix drinks with like eight flavors each in the cup holders. I had something like the whole value menu on my lap, and a milkshake between my knees. Marco was already stuffing his face when we left the pickup window. I pulled into the lot next to Sonic.
+We had two of those all-you-can-mix drinks with like eight flavors each in the cup holders. I had something like the whole value menu on my lap, and a milkshake between my knees. Marco was already stuffing his face when we left the pickup window. I pulled into the lot next door.
 
 I was about to eat my second burger when I saw this homeless guy all hunched over a shopping cart, pushing it down the sidewalk on the other side of McAllister Ave. I almost felt bad about eating all that awesome food when that guy probably didn’t even have dinner. But he probably did drugs or something, so maybe he wasn’t hungry. I wanted to teleport one of my burgers or hot dogs or fries to a bench ahead of the guy so he could find it.
 “Go ahead, teleport away,” said Marco, “Just don’t get close to him. He might have lice or AIDs or something.” We laughed, and the guy kept on his way.
@@ -41,7 +41,7 @@ We were about to turn out of the lot, but when I looked left I saw people walkin
 
 It was pretty funny. We cruised for another block down McAllister, windows down, and really blasted the music. At the light, I leaned my head against the headrest. The bass was great, like a chest massage from the inside. I stared up at the vibrating rearview mirror.
 
-I rubbed my hand across the steering wheel. Who cares what Dad thinks. If I had a job I wouldn’t still be living at home in the first place. We’d figure things out, me and Marco, and we’d take on the world. Soon we’d have our own Mustangs and fancy garages. Out the window, I saw that homeless guy at the opposite corner, struggling to get his cart up the curb.
+I rubbed my hand across the steering wheel. Who cares what Dad thinks. If I had a job I wouldn’t still be living at home in the first place. Out the window, I saw that homeless guy at the opposite corner, struggling to get his cart up the curb. We’d figure things out, me and Marco, and we’d take on the world. Soon we’d have our own Mustangs and fancy garages.
 
 I looked back at the mirror. Two of the guys were walking ahead of the group of kids, looking back to the others and then at us. They stepped into the street and started toward the car. I saw them shouting, but didn’t hear it over the music. Marco hadn’t noticed. I looked up at the red light and felt sweat between my fingers as I gripped the brand new plastic of the steering wheel.
 
@@ -53,15 +53,16 @@ I looked up. The radio was silent. Marco was swearing: there was fucking milksha
 
 I opened the door and stepped out. A bent up shopping cart lay on its side a few yards in front of the car. I felt something crack underneath me. It looked like porcelain, a teapot or something. There were pieces all over the sidewalk. I turned to see a man in dirty clothing on his knees, sweeping the pieces into piles with his hands.
 
-“Are you alright man?” I asked. He didn’t respond, just kept sweeping. “You didn’t get hurt or anything?” I took a step closer and he stopped.
+“Are you alright man?” I asked. He didn’t respond, just kept sweeping. “You didn’t get hurt or anything?” I took a step closer and he stopped. Marco was in the driver’s seat and yelled something at me. 
 
-He sat up, cross-legged, sorting through one of the piles. “Gone gone, all along,” he said in something between a song and a mutter.
+The man sat up, cross-legged, sorting through one of the piles. “Gone gone, all along, gone all along,” he said in something between a song and a mutter.
 
 “Jeez what happened? Did you see anything? There were these thugs coming after us.”
-He held up two pieces, trying to fit them together. I ran back to the car and dug up one of the Sonic bags.
+
+He held up two pieces, trying to fit them together. 
+
+I ran back to the car and dug up one of the Sonic bags.
 
 “Do you want a burger?”
 
 I handed him a chicken sandwich. He grabbed it and started eating.
-
-Marco was in the driver’s seat and yelled something at me. I got up, stumbled over to the passengers seat, sat down, and closed my eyes as we backed off the curb and sped down the street.

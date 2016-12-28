@@ -10,7 +10,11 @@ permalink: /writing/
     {% for post in site.categories["writing"] %}
       <li class="post-item">
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        <a class="post-excerpt" href="{{ post.url | prepend: site.baseurl }}">{{ post.description }}</a>
+      </li>
+    {% endfor %}
+    {% for post in site.categories["blog"] %}
+      <li class="post-item">
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </li>
     {% endfor %}
   </ul>

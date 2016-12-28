@@ -1,14 +1,12 @@
 # Site settings
-title: Derick 
-email: olsonderick@gmail.com
-email_name: olsonderick 
-description: "Hi there! My name's Derick Olson. I'm a student of languages (imperative, functional, figurative, semanto-phonetic)."
+title: Derick
+email: moc.liamg@kcirednoslo
+description: "Hi there! I'm Dericko. I'm a student of languages (imperative, functional, figurative, semanto-phonetic)."
 baseurl: ""
 url: "http://www.derickolson.com"
-twitter_username: dericksaid 
-github_username: dericko 
+github_username: dericko
 linkedin_username: derickolson
-highlighter: rouge 
+highlighter: rouge
 
 # Build settings
 markdown: kramdown

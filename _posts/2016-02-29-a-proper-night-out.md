@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A proper night out"
+description: "A short story about Harold Lanois."
 categories: writing fiction
 tags: featured
 ---
@@ -25,7 +26,7 @@ As the main course drew to an end I felt weary of the petty conversation and gre
 
 I continued, “It’s not that I mind winning the bread, as it goes, but she feels so helpless. She has hardly left the house in months.”
 
-Maebelle rose from the table. 
+Maebelle rose from the table.
 
 “Sweet Maebelle. Here we are, modern citizens of the world and I’m practically a patriarch!” The Lafayettes laughed politely.
 
@@ -35,7 +36,7 @@ Maebelle rose from the table.
 
 “You’re unbelievable,” Maebelle seemed unable to articulate whatever was on her mind.
 
-I was shocked and embarrassed at my own wife’s lack of support among good company. I informed our guests that it was time for them to leave. I asked Maebelle where we kept the plasticware containers but she did not respond. I packed the leftovers using dinner plates and paper towels and handed the parcels to the Lafayettes. They muttered praise for our decor as they left. 
+I was shocked and embarrassed at my own wife’s lack of support among good company. I informed our guests that it was time for them to leave. I asked Maebelle where we kept the plasticware containers but she did not respond. I packed the leftovers using dinner plates and paper towels and handed the parcels to the Lafayettes. They muttered praise for our decor as they left.
 
 Maebelle had as yet failed to compose herself, so I thought it best that I respect her personal space. I kissed her on the cheek and followed the Lafayettes out the door.
 
@@ -91,19 +92,19 @@ Inside, I witnessed a tall man with dark curly hair dancing with ferocious energ
 
 I stood beside a garbage bin to appreciate the scene. The dancing man slammed a handful of nickels onto the counter and retrieved his beverage.
 
-A chubby boy carried a tray of food. With an unexpected spin, the dancing man knocked the boy’s uneaten hamburger and french fries onto the floor. The man smiled at the boy and performed a shuffle around the fallen meal. 
+A chubby boy carried a tray of food. With an unexpected spin, the dancing man knocked the boy’s uneaten hamburger and french fries onto the floor. The man smiled at the boy and performed a shuffle around the fallen meal.
 
 I pursed my lips as I contemplated how to aid the situation. The dancing man squatted to pick up individual french fries with one hand and collected them in the other. He moved to a silent beat. He slid the child’s still-wrapped hamburger across the floor to rest at my feet.  I handed it to the boy, who ran from whence he came. I nodded politely and averted my eyes.
 
 “I suppose I must be going,” I muttered at last.
 
-The man did not respond, but moved his hips in place, keeping his eyes on mine. 
+The man did not respond, but moved his hips in place, keeping his eyes on mine.
 
 “Is there something I can do for you?” I asked.
 
 He rolled his arms and shoulders and his keychains rang to a syncopated beat. I blinked and walked toward the exit. We walked in the same direction for several paces before I worked up the courage to engage him in conversation.
 
-“I find your accessories fascinating,” I told him. 
+“I find your accessories fascinating,” I told him.
 
 He failed to acknowledge my compliment, but slowed his stride to meet mine.
 
@@ -117,11 +118,11 @@ We reached the entrance of a dance hall full of young people. I spotted a group 
 
 He motioned for me to enter the hall. Once inside, the dancing man moved toward the dance floor. His keychains shook and glimmered with the beat of the music. The noise was difficult for me to bear. I padded my ears with my hands and pursed my lips with added vigor. It seemed that I was the only one in the establishment with such aural sensitivity. Just as I felt that it was time for me to leave, the dancing man approached me.
 
-He motioned for my hand. He placed two foam earplugs in my palm and returned to the dance floor. 
+He motioned for my hand. He placed two foam earplugs in my palm and returned to the dance floor.
 
 The dancing man span and shimmered in the darkness of the room. At first he danced alone. At times he was joined by women, who were then joined by other men who hoped to dance with them.
 
-Once he was joined by a woman wearing shoes embedded with fake crystals. Yet rather than inquire about the poor quality of her apparel, the dancing man simply syncopated his step with hers and flailed her about without smiling. 
+Once he was joined by a woman wearing shoes embedded with fake crystals. Yet rather than inquire about the poor quality of her apparel, the dancing man simply syncopated his step with hers and flailed her about without smiling.
 
 As the crowd grew, I could not help but fear that I would somehow lose my companion to the masses. But each time the crowd grew thick so as to obscure my view of him, the dancing man would reappear and continue his wild movements on an open space of the floor.
 

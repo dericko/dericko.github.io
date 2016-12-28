@@ -8,9 +8,8 @@ permalink: /writing/
 
   <ul class="posts">
     {% for post in site.categories["writing"] %}
-      <li>
+      <li class="post-item">
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        <br>
         <a class="post-excerpt" href="{{ post.url | prepend: site.baseurl }}">{{ post.description }}</a>
       </li>
     {% endfor %}

@@ -3,10 +3,10 @@ layout: post
 title: "A Question of Scruples"
 categories: writing fiction
 description: "An incomplete short story about health and wellness"
-tags: featured
+tags:
 ---
 
-Alex stood at the library kiosk and checked the inbox of his FindMeAWinner™ account. Three new matches. He opened each and scribbled the About Me descriptions into his notebook. 
+Alex stood at the library kiosk and checked the inbox of his FindMeAWinner™ account. Three new matches. He opened each and scribbled the About Me descriptions into his notebook.
 
 So you’re strapped to a giant parachute sitting in the back of a speedboat, waiting for the wind to carry you up into the sky or crashing down into the waves, but that doesn’t really happen does it? Well, I’d already convinced my buddies to come out on this trip and I wasn’t about to back out of it. Hey there, I’m Rob. City dweller and weekend explorer. Send me a message, let’s get to know each other.
 
@@ -46,15 +46,15 @@ A second young woman entered the wellness studio. “Is Alex here?”
 
 “He’s out for the day. I’ll be leading the afternoon session.”
 
-“Oh, you’re the brother aren’t you? So you must be all zen too then.” 
+“Oh, you’re the brother aren’t you? So you must be all zen too then.”
 
 “Sure, you could say that.” Danny felt a breeze as the door opened for a third time.
 
-“Sophie you made it!” The first woman turned toward the door. 
+“Sophie you made it!” The first woman turned toward the door.
 
-“Hey Danny, you’re teaching today right? Cool. Too bad Alex is out huh?” 
+“Hey Danny, you’re teaching today right? Cool. Too bad Alex is out huh?”
 
-Sophie led the other women to the waiting area. 
+Sophie led the other women to the waiting area.
 
 If he couldn’t remember the password then they couldn’t charge for the session. Danny thumbed his notebook. He shuffled through the drawers but found no hints or alternate logins. There wasn’t even any scratch paper. He looked back at his notebook, opened it up, and tore out a page.
 
@@ -88,7 +88,7 @@ Danny wrote out their names. “Me. I started yoga back in high school. It was a
 
 Alex ran into the liquor store next door and bought a fifth of scotch with cash. He arrived at the diner breathless. It was quarter-past seven, fashionably late. He approached his date, wearing a red scarf in her hair like they agreed on.
 
-“Hey Kate—Katie, what’s up? Wow, you look even hotter than you did on your profile pics.” 
+“Hey Kate—Katie, what’s up? Wow, you look even hotter than you did on your profile pics.”
 
 “It’s Kate. Thanks.”
 
@@ -102,14 +102,14 @@ Alex returned to the diner booth with two cups of ice. He poured the scotch, fir
 
 “Oh, that’s cool. Are you some kind of doctor or something?”
 
-“Sure, you could say that. It started out as my own thing, then my little brother got into it, so I worked with him, pretty much taught him everything he knows. So then we opened up a little studio to help other people. For what we charge them we might as well be doctors!” Alex laughed. 
+“Sure, you could say that. It started out as my own thing, then my little brother got into it, so I worked with him, pretty much taught him everything he knows. So then we opened up a little studio to help other people. For what we charge them we might as well be doctors!” Alex laughed.
 
 “I guess so.”
 
 “Well,” began Alex, “the great part about it is that it gives me the time to do what I really want to do. So last weekend, I convinced some buddies of mine to go parasailing. I mean imagine: you’re strapped to a giant parachute sitting in the back of a speedboat, waiting for the wind to carry you up into the sky or crashing down into the waves, and—”    
 
-“Excuse me sir, we don’t allow customers to pour their own drinks.” 
-Alex shoved the bottle under his chair without looking up. 
+“Excuse me sir, we don’t allow customers to pour their own drinks.”
+Alex shoved the bottle under his chair without looking up.
 
 “Just so you know for next time.” She smiled and walked away.
 

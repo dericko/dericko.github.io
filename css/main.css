@@ -169,10 +169,6 @@ a:visited { color: #205caa; }
   list-style-type: none;
 }
 
-.posts .post-link {
-  font-weight: bold;
-}
-
 .posts .padded-content {
   padding: 40px;
   overflow-y: hidden;

@@ -18,7 +18,7 @@ Rosemary Taft adjusted the basil as she followed her sales associate through the
 
 “I dabble.”
 
-“Well I always say a cook’s an artist and an artist’s got taste.” She picked a sprig of thyme and flicked it to the floor. “These starter herbs aren’t gonna cut it for you. What you need is quality. Rose? Would you mind showing this nice man some of the herbs he’s missing out on?”
+Anise picked a sprig of thyme and flicked it to the floor. “These starter herbs aren’t gonna cut it for you. What you need is quality. Rose? Would you mind showing this nice man some of the herbs he’s missing out on?”
 
 Rose placed a selection of potted basils on the counter and proceeded to describe them. “Let’s see, we’ve got your traditional genovese, Thai basil, dwarf greek. Finissimo verde if you’re into that kind of thing. Careful with the genovese though, they’ll grow right up past the blinds if you don’t keep an eye on them!”
 
@@ -88,7 +88,7 @@ Rose checked her daughter’s backpack for the permission slip. She took out a p
 
 Rose unwrapped the soggy sandwich and took a bite. She handed it to Cumin, who made a face.
 
-“Food’s ready,” said Garam from the living room. 
+“Food’s ready,” said Garam from the living room.
 
 The three nodded for Grace at the kitchen counter. “How was your day?” asked Garam.
 

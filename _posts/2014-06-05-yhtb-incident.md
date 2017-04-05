@@ -3,7 +3,7 @@ layout: post
 title: "YHTB 2: An Incident"
 description: "Listen: There are murmerings, a disturbance in the neighborhood. The curtains are drawn. It is not yet six; but still, I hear them."
 categories: blog
-tags: travel featured
+tags: travel
 ---
 
 __There was an early morning incident.__
@@ -22,6 +22,6 @@ An old man stood defiantly, as a young man yelled. There was a response. The you
 
 People gathered in close, a few took turns shouting at the man. For a moment, nobody seemed to know what to do.
 
-And then the police showed up. An officer addressed the old man, but neither responded further. The man sat back, and smoked a cigarrette. The other officers attempted to disperse the crowd as it pressed inwards. And the seemed to be at a loss.
+And then the police showed up. An officer addressed the old man, but neither responded further. The man sat back, and smoked a cigarrette. The other officers attempted to disperse the crowd as it pressed inwards.
 
 The officer grabbed the man by the shoulders. He continued with his cigarrete. A second officer grabbed the man and pushed him hard. The three flew forward, catching their balance against the crowd. The officers led the men offscreen. Shit, I was watching on my phone.

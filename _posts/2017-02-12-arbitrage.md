@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Arbitrage!"
-description: "A short story about a family and a game show"
+description: ""My dad always told me: deny deny deny, but what can you do when there’s HD evidence of your infidelity?""
 categories: writing fiction
 tags: featured
 ---
@@ -17,9 +17,13 @@ I was explaining to Denny the cost-of-carry for human assets, what with vaccines
 I pulled out a carton of broccoli tofu and got to work splitting it into three portions. Sasha wouldn’t take a bite until I turned off the Arbitrage! live stream. I knew this was the only time we got together so I didn't make a big deal about how we were missing this week’s after hours trading special — estranged Pacific Islanders. I pulled out my planner and checked off “quality family time”. The three of us nodded for a quick prayer, styrofoam plates balancing on our laps. Denny used his disposable chopsticks to grab broccoli off my plate between bites.
 
 “When did you learn to use chopsticks?” asked Sasha.
+
 “Daddy taught me.”
+
 “Your dad seems to know a lot doesn’t he?”
+
 "He sure does. Today he taught me to capitalize on market inefficiencies. I made seventeen bucks on Arbitrage!"
+
 "I don't know how you boys do it." Sash said in a sing song voice. She mimed a musical chimp, clapping her hands like cymbals.
 
 Denny giggled and played along on an imaginary snare drum with his chopsticks. What a great kid. Some dads might call him a wuss but they'd be missing what a sweet boy he's turning out to be. Sometimes I worry that he has a hard time making friends in school. We've been planning a trip to the mountains so he can learn to snowboard. I think it'd be good for him to do some physical activities, give him something to relate to with the other little boys in class.
@@ -28,7 +32,7 @@ We finished up our supper and Denny asked if we could turn the live stream back 
 
 Dr. Horowitz wants Sash and I find more common ground to share with Denny. And I've been trying with Arbitrage!, but Sash just isn't interested in the living assets trade. One night when I couldn't sleep I went downstairs for a glass of milk and saw Sash lying on the couch pjs askew whispering into the TeleClick. It flashed and rumbled like a restaurant buzzer. That's when I realized Sash and I had an intimacy problem.
 
-Sasha’s what you can call upset. Ever since the accident, I’ve been cooped up at home having lots of quality time with Denny and I get it, she hardly gets to see our little guy. She leads a sales team at Carbónairé, convincing office managers to buy cases of sparkling water for their employees. And boy is she good at it. She could sell you the shoes right off your feet. She's been selling things since she could talk, maybe earlier. When she was a kid she'd cut up her clothes and pawn them off to other kids as high fashion. It's too bad all this selling doesn't make her happy, she's always getting tied up in the morality of consumption and all that. I say she's overthinking it. Sometimes I wonder how Sasha fell for a guy like me. Back then I was still a contractor's apprentice for Sasha’s uncle, Big Mike. He has hands like baseball mitts and a booming laugh that runs in the family. He ran the biggest construction business in town at the time and was friends with all the graying mob bosses. Sometimes he'd have us lay out the bodies in the concrete foundation of mansions during renovation jobs. I always  loved waste disposal days. I would take my bonus and treat my friends to root beer floats at A&W. It's easy not to think when you're gulping down a root beer float with your buddies.
+Sasha’s what you can call upset. Ever since the accident, I’ve been cooped up at home having lots of quality time with Denny and I get it, she hardly gets to see our little guy. She leads a sales team at Carbónairé, convincing office managers to buy cases of sparkling water for their employees. And boy is she good at it. She could sell you the shoes right off your feet. She's been selling things since she could talk, maybe earlier. When she was a kid she'd cut up her clothes and pawn them off to other kids as high fashion. It's too bad all this selling doesn't make her happy, she's always getting tied up in the morality of consumption and all that. I say she's overthinking it. Sometimes I wonder how Sasha fell for a guy like me. Back then I was still a contractor's apprentice for Sasha’s uncle, Big Mike. He has hands like baseball mitts and a booming laugh that runs in the family. He ran the biggest construction business in town at the time and was friends with all the graying mob bosses. Sometimes he'd have us lay out the bodies in the concrete foundation of mansions during renovation jobs. I always loved waste disposal days. I would take my bonus and treat my friends to root beer floats at A&W. It's easy not to think when you're gulping down a root beer float with your buddies.
 
 We had some good years, pouring our love into Denny, ignoring the flaws in each other and in our relationship. The accident really miffed things up. I was doing a recessed lighting job at the Cresci’s. The Cresci's were the kind of family with a rumpus room the size of our 2BR/1.5BA apartment. Needless to say they paid the big bucks. It was a pretty big job since I had to take out an old ceiling fan apparatus that hung over the spiral staircase. So I’d been stopping by for a couple weeks to get the prelim planning out of the way. Marie C got the door as usual since Mr. C and the kids were out at work and school. I sat on the couch and Marie got me some water, Sparky yapping at her calves. We had what you might call a history, me and Marie. We’d talked about setting boundaries and all that but when she jumped my bones there was no was I was gonna say no. Big Mike always said not to mix business and pleasure and just like me I got what was coming to me. By the time I got my glasses back on I was all hot with afterglow and slipped off the ladder. There I was hanging two floors up on the ceiling fan, Sparky barking up help the best he could. I felt like I could hold on forever but I heard a crack and down I came. Marie was in a fluster, coughing up drywall dust. At that point all I could think of were my shattered knees.
 

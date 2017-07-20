@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Botanicals"
-description: ""Here’s a sage flower. Don’t be shy, give the stamen a good rub. Now brush that pollen on the stigmas. Be gentle now, they’re delicate.""
+description: "A short story about a botanical saleswoman."
 categories: writing fiction
 tags: featured
 ---

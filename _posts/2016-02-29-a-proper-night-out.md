@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "A proper night out"
-description: "A short story about Harold Lanois."
+title: "The Making of An Urban Ethnographer"
+description: "“Sweet Maebelle. Here we are, modern citizens of the world and I’m practically a patriarch!”"
 categories: writing fiction
 tags: featured
 ---

@@ -7,13 +7,19 @@ published: true
 
 Here's what I've been up to lately:
 
-__2016__
+__Current__
 
-_Software Engineer_ - Remind, San Francisco (current)
+_Taking a break from full-time software engineering_
 
-> Working with some super cool people to build a messaging app for education
+__2016-17__
 
-_Made it through college_
+_Yoga Teacher Training_ - Yoga Society of San Francisco
+
+> Lived and learned the fundamentals of yoga with a group of amazing yogis during a four month immersion program at Brahmananda Ashram
+
+_Software Engineer_ - Remind, San Francisco
+
+> Worked with an extraordinary group of people to build a messaging platform for education
 
 __2015__
 
@@ -33,8 +39,7 @@ __2014__
 
 _?? Intern_ - Capvision Partners, Shanghai, China
 
-> Came in as a marketing intern and convinced my manager to let me write an iOS
-app. Practiced my 普通话 through [song](https://www.youtube.com/watch?v=uDyo6IAnbVY) and upped my badminton game
+> Came in as a marketing intern and convinced my manager to let me write an iOS app. Practiced my 普通话 through [song](https://www.youtube.com/watch?v=uDyo6IAnbVY) and upped my badminton game
 
 _Treasurer_ - oikos Penn
 
@@ -42,22 +47,19 @@ _Treasurer_ - oikos Penn
 
 _Brother At Large_ -  Pi Kappa Alpha
 
-> Fulfilled an obscurely-named role designed to break tied votes in the executive
-board for an organization whose existence may or may not be legitimate
+> Fulfilled an obscurely-named role designed to break tied votes in the executive board for an organization whose existence may or may not be legitimate
 
 __2013__
 
 _Product Development Intern_ - Resonate LLC, Berwyn, PA
 
-> Spent a summer and a couple semesters learning about sustainability and software
-as a service. Realized how much more fun I would be having if I wrote code.
+> Spent a summer and a couple semesters learning about sustainability and software as a service. Realized how much more fun I would be having if I wrote code.
 
 __2012__
 
 _Research Assistant_ - University of Pennsylvania
 
-> Did a bunch of research on "violent non-state actors" (e.g. terrorist orgs), some
-profiles for my mentor professor's books, and collected data for the [Terrorism Network Project](http://fordschool.umich.edu/news/2012/mapping-terror-understanding-terrorist-networks-and-alliances).
+> Did a bunch of research on "violent non-state actors" (e.g. terrorist orgs), some profiles for my mentor professor's books, and collected data for the [Terrorism Network Project](http://fordschool.umich.edu/news/2012/mapping-terror-understanding-terrorist-networks-and-alliances).
 
 __Previous__
 

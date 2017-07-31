@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Botanicals"
-description: "A short story about a botanical saleswoman."
+description: "These starter herbs aren’t gonna cut it for you. What you need is quality."
 categories: writing fiction
 tags: featured
 ---

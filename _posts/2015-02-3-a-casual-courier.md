@@ -2,17 +2,17 @@
 layout: post
 title: "A Casual Courier"
 categories: writing fiction
-description: "A short story about an incident on the train"
+description: "Despite the titillating effects of more exotic items, Richard was in no way dissatisfied with the package on his lap as he road the first peak hour Metro-North train from his hometown of Ossining to the City."
 tags: featured
 ---
 
 Despite the titillating effects of more exotic items, Richard was in no way dissatisfied with the package on his lap as he road the first peak hour Metro-North train from his hometown of Ossining to the City. He was in fact comfortable or ’at ease’ with the quadruple set of 3-inch snow globes, each cast as one of the four annual seasons (substituting snow with bumble bees, dew drops, and auburn foliage in accordance to the tenets of the corresponding clime), as a sentimental token or reminder of a long-forgotten innocence free of loneliness and priorities common to an upper middle class single male, and individually wrapped in Styrofoam subsections that made up the solid yet lightweight interior of the cardboard package with a hand-written sticker on top that read:
 
->    To: 
+>    To:
 >        My Dear Grandson Mr. Joshua Ormond
 >        270 Bedford Avenue
 >       Apt. 2A
->        Brooklyn, NY 11249 
+>        Brooklyn, NY 11249
 
 
 In providing an address, the elder Mrs. Ormond betrayed her unfamiliarity with the terms of their agreement, but Richard did not mind re-explaining these terms to his septuagenarian client as he gently reminded her that he would in fact transfer or ‘hand off’ the parcel to the inscribed Grandson at the Station, and that in fact no direct address would be necessary although it would be quite alright to leave one attached for peace of mind or as bulwark against unforeseen events. However, he informed her, under no likely circumstances would Richard place his Schedule on hold for anyone by hand delivering a parcel, not even in the name of the CC services that he had pioneered.
@@ -25,8 +25,8 @@ It was not as if Richard’s violation of privacy had ever impacted a client or 
 
 The choice of packing materials often denoted the social status of a client and Richard, through his carnal deconstructions of client packages, had developed a strong intuition tempered by the materials and/or handwritten notes left by senders. Both those professionally and hap-hazardously wrapped in name-brand boxes and padded with Styrofoam pellets clearly belonged to the wealthy who no longer trusted in public mail services for transporting mildly illicit and NSFW items to whom Richard peddled his services to as a luxury. Next were the carefully done but clearly non-professional parcels indicative of the middle or ‘suburban’ class whose mundane bibliophilic contents were only as enjoyable as the personal messages left on the flyleaf. What Richard was most proud of was his recently gained ability to discern the subtle differences between the environmentally conscious and the poor or ‘ethnic’ classes (through careful examination of the variety of magazines, newspaper, and junk mail used to cushion their ramshackle packages) both of which he disdained but had made efforts to embrace in hopes of rounding out his client portfolio.
 
-The infant continued to cry in spite of the wife’s efforts, which had lost enthusiasm and then stopped entirely. She raised her eyes to the Mother beside Richard and stared as if to penetrate the crown of the sleeping woman’s head as it rested on the seat in front of her. Richard tilted his own head down at the parcel and mouthed the words of its address to himself while keeping the frightening woman’s gaze in his upper peripheries. Her stare did not cease until an announcement for Yonkers cued the husband to place his hand on the wife who turned back with such ferocity as to make him slide several inches lower in his seat as the wife apologized and whispered to him. The couple stood up before the train had come to a full and complete stop and the wife reached down toward the infant whose cries died down with human proximity. The Wife said something to her husband as he rubbed her shoulder and smiled. 
-The train came to a halt and the sleeping woman’s saliva pooled on her jeans without Richard’s notice. He stared at the couple as the wife invited her husband to coddle the infant. 
+The infant continued to cry in spite of the wife’s efforts, which had lost enthusiasm and then stopped entirely. She raised her eyes to the Mother beside Richard and stared as if to penetrate the crown of the sleeping woman’s head as it rested on the seat in front of her. Richard tilted his own head down at the parcel and mouthed the words of its address to himself while keeping the frightening woman’s gaze in his upper peripheries. Her stare did not cease until an announcement for Yonkers cued the husband to place his hand on the wife who turned back with such ferocity as to make him slide several inches lower in his seat as the wife apologized and whispered to him. The couple stood up before the train had come to a full and complete stop and the wife reached down toward the infant whose cries died down with human proximity. The Wife said something to her husband as he rubbed her shoulder and smiled.
+The train came to a halt and the sleeping woman’s saliva pooled on her jeans without Richard’s notice. He stared at the couple as the wife invited her husband to coddle the infant.
 
 Richard rubbed his palms against his pant legs, and coughed into his shirt. The parcel in question was of the third, ramshackle class, although at the time Richard had been unable to ascertain as to which sub-group it belonged to even after opening the wax-sealed envelope and staring open-mouthed for a full thirty seconds at the instruction manual’s diagram with a circled ‘3a’ which indicated the proper alignment of the detonator, after which he hurriedly dropped the envelope into the ragged box and did not even remove the metal artifact from its container, reasoning that it was better to leave well enough alone, and remarking to himself that it had been the first time that he did not enjoy or ‘get off on’ this invasion of privacy that he so looked forward to each day.
 

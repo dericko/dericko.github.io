@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Arbitrage!"
-description: "A short story about a family and a game show"
+description: "I’ve never been what you’d call a cerebral fellow, but it’s hard not to feel like a smarty pants when you’re firing off eight sales a minute on Arbitrage!"
 categories: writing fiction
 tags: featured
 ---

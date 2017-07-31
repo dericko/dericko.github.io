@@ -14,7 +14,7 @@ I met Aganon at the first parents’ meeting prior to Vacation Bible School. My 
 
 Thus in few day’s time we formed a friendship discussing Denny’s good manners and remarkable progress with his verses. I must admit that initial morning drives were more uncomfortable than I let on, as I could not help but wonder about the whereabouts of the child’s mother. I thanked the Lord when the boy informed me that he was tasked with committing as many verses of the Lord’s Word to memory as possible, as a competition among the young churchgoers.
 
-Aganon beamed with pride as I delivered his son from Vacation Bible School each afternoon, eager to write down his newest verse on his growing collection of sticky notes. The boy’s exuberance toward the Good Book was remarkable, and it seemed that no number of verses could satisfy his appetite. 
+Aganon beamed with pride as I delivered his son from Vacation Bible School each afternoon, eager to write down his newest verse on his growing collection of sticky notes. The boy’s exuberance toward the Good Book was remarkable, and it seemed that no number of verses could satisfy his appetite.
 
 I happened to visit Aganon on one of his short breaks between evening work shifts (you must understand that he has been under great financial stress of late and often works overnight). I entered without knocking as friends often do and walked into a most hilarious sight. Aganon, doing no less but carrying little Denny upon his shoulders as the boy pasted his latest verse to the ceiling of their apartment. The ceiling was lined with similar strips of printed verses, and I watched as father and son read each together aloud. As Aganon lowered his son to the ground, I laughed aloud at my friend and gave the boy a pat on the head.
 
@@ -26,9 +26,9 @@ We had made it a habit to attend Service together each Sunday. Yet upon walking 
 
 “Well First John, not the Gospel, my dear. But yes, it is the same John.” I smiled at the boy.
 
-“Oh, cool! Okay, how about this one? ‘Guide me in Your Truth and teach me, for You are God my Savior’, and, and—” 
+“Oh, cool! Okay, how about this one? ‘Guide me in Your Truth and teach me, for You are God my Savior’, and, and—”
 
-“My hope is in You all day long!” Aganon emerged from the bathroom dripping toothpaste from his mouth. 
+“My hope is in You all day long!” Aganon emerged from the bathroom dripping toothpaste from his mouth.
 
 “All day long.” Denny repeated, and hugged his father’s waist.
 
@@ -39,17 +39,17 @@ By the time we arrived, service had already started, so we sent Denny off to the
 “Amen. Blessed be the Lord and may we His children live to see His return.”
 
 And you began a sermon of which I reserve nothing but praise for:
-“So many claim to hold the truth. In this day and age of information we must not lose ourselves to the noise. You may be tempted to speak out louder than the voices around you, or you may tempted to remain silent." 
+“So many claim to hold the truth. In this day and age of information we must not lose ourselves to the noise. You may be tempted to speak out louder than the voices around you, or you may tempted to remain silent."
 
 Pastor, your lyricism knows no bound.
 
 **
 
-At the children’s Church, Denny stood in line as the pastors gave the sacrament of Youthcharist. Each was offered two Dixie cups, the first of strawberry milk, the second of Cheerios.  Denny, it is needless to say, was largely distracted through  the process and found himself fixated by the assortment of candy baskets on the counter reserved for those children who had memorized the most Bible verses. He hardly touched his sacramental snack and instead stood in silent anticipation as the other children went about there carefree mornings. 
+At the children’s Church, Denny stood in line as the pastors gave the sacrament of Youthcharist. Each was offered two Dixie cups, the first of strawberry milk, the second of Cheerios.  Denny, it is needless to say, was largely distracted through  the process and found himself fixated by the assortment of candy baskets on the counter reserved for those children who had memorized the most Bible verses. He hardly touched his sacramental snack and instead stood in silent anticipation as the other children went about there carefree mornings.
 
 The room grew quiet as the youth pastors announced that verse recitals were to commence. Denny waited until the last moment to find his seat at the circular table, as to ascertain which direction the children would be asked to offer their verses to our Lord. He chose a seat to the left of Kelly Addams, which made him third in line to recite.
 
-The first boy began slowly. As Denny silently rehearsed his own repertoire, he could not help but notice Kelly Addams squirm with anxiety. Kelly Addams was not particularly clever, nor widely considered pretty. She did however share Denny’s preference for yellow Jolly Ranchers. The girl had become an important focus of the boy’s mind these last few weeks, much like my own infatuation with Aganon. Yet it had never occurred to the boy that his father and I could be lovers, that I would have him as my son. Sometimes Denny dreamt of his future life. One day he would be a chiropractor, he thought, admiring Kelly Addams sitting upright in her chair. 
+The first boy began slowly. As Denny silently rehearsed his own repertoire, he could not help but notice Kelly Addams squirm with anxiety. Kelly Addams was not particularly clever, nor widely considered pretty. She did however share Denny’s preference for yellow Jolly Ranchers. The girl had become an important focus of the boy’s mind these last few weeks, much like my own infatuation with Aganon. Yet it had never occurred to the boy that his father and I could be lovers, that I would have him as my son. Sometimes Denny dreamt of his future life. One day he would be a chiropractor, he thought, admiring Kelly Addams sitting upright in her chair.
 
 Denny reached into his pocket and removed a crumpled sticky note, straightening out the handwritten Bible verse with his hands beneath the table. He tucked the verse under his cup of Cheerios and slid it to her as  if to share his morning snack. The first boy recited two verses, using such pedestrian language that Denny suspected him of sourcing the Children’s Abbreviated Version of the Bible. As her turn came, Kelly Addams smiled at the table and read Denny’s offering aloud.
 
@@ -57,7 +57,7 @@ Denny reached into his pocket and removed a crumpled sticky note, straightening 
 
 Now our own service was well under way and I could not help but notice how close my dear Aganon was as he sat beside me. I, a natural vixen in my own right, refused all temptation to take hold of the strong man and instead turned to follow your message:
 
-“Jeremiah warns us against idle prophets for they bring us false hope. They speak visions from their own minds, not from the mouth of the Lord.” 
+“Jeremiah warns us against idle prophets for they bring us false hope. They speak visions from their own minds, not from the mouth of the Lord.”
 
 I nodded my head in prayer.
 
@@ -73,7 +73,7 @@ Kelly Addams took a Cheerio and ate it quietly. Denny rolled his shoulders back 
 
 “Oh how wonderful. How about you start with one, and we’ll see where you go from there.”
 
-“Okay! How about this one. ‘Guide me in your truth and teach me, for You are God my Savior…for You are God my Savior,’” Denny felt his face grow warm, “‘And my hope, my hope…’” 
+“Okay! How about this one. ‘Guide me in your truth and teach me, for You are God my Savior…for You are God my Savior,’” Denny felt his face grow warm, “‘And my hope, my hope…’”
 
 He looked back to his cup of Cheerios. Kelly Addams gave his shoulder a reassuring pat. Denny stared at the cereal in a manner not unlike my own habit of contemplating the girth of my suppositories. The tops of Denny’s cheeks turned bright red. The youth pastor shifted his weight and smiled at the boy.
 
@@ -95,7 +95,7 @@ I sat in the sanctuary and your voice rose to a crescendo of hope and condemnati
 
 He turned to face your pulpit, striking the head of the man sitting in front of us with his weighty manhood.
 
-Now I know that you believe my poor Aganon to be a misfit for his actions, but I tell you that you he is blameless. While you and the congregation stood in condemnation of his appearance, I looked to follow the trousers of Aganon, to see what he saw, for I knew he saw God. 
+Now I know that you believe my poor Aganon to be a misfit for his actions, but I tell you that you he is blameless. While you and the congregation stood in condemnation of his appearance, I looked to follow the trousers of Aganon, to see what he saw, for I knew he saw God.
 
 Now listen Pastor, for this is what I witnessed:
 
@@ -133,9 +133,8 @@ With arms raised in praise Aganon looked to the cross and spoke to Jesus.
 
 “Do not question my Message, child. You must be strong in me.”
 
-And with that, my beloved Aganon fell to his knees. 
+And with that, my beloved Aganon fell to his knees.
 
 “He has seen the Lord,” I said, “we must wake him!”
 
 From your pulpit you stared at us with fire in your eyes. My body burst forth with the white heat of shame. The deacon took my hands and prayed for my soul but I knew not how to respond.
-

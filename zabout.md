@@ -11,7 +11,7 @@ __Current__
 
 _Taking a break from full-time software engineering_
 
-__2016-17__
+__2017__
 
 _Yoga Teacher Training_ - Yoga Society of San Francisco
 
@@ -20,6 +20,12 @@ _Yoga Teacher Training_ - Yoga Society of San Francisco
 _Software Engineer_ - Remind, San Francisco
 
 > Worked with an extraordinary group of people to build a messaging platform for education
+
+__2016__
+
+_Software Engineering Intern_ - Remind, San Francisco
+
+_Graduated!_ - Penn, Philadelphia
 
 __2015__
 

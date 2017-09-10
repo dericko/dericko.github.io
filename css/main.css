@@ -193,8 +193,6 @@ a:visited { color: #205caa; }
 .posts .padded-content {
   padding: 40px;
   overflow-y: hidden;
-  width: 600px;
-  left: 340px;
 }
 
 .posts .padded-content:hover {

@@ -13,11 +13,11 @@ _Taking a break from full-time software engineering to focus on writing_
 
 __2017__
 
-_Yoga Teacher Training_ - Yoga Society of San Francisco
+_Yoga Teacher Training_ - [Yoga Society of San Francisco](http://yogasocietysanfrancisco.com/)
 
 > Lived and learned the fundamentals of yoga with a group of amazing yogis during a four month immersion program at Brahmananda Ashram
 
-_Software Engineer_ - Remind, San Francisco
+_Software Engineer_ - [Remind](https://www.seas.upenn.edu/~cis120/current/), San Francisco
 
 > Worked with an extraordinary group of people to build a messaging platform for education
 
@@ -29,25 +29,25 @@ _Graduated!_ - Penn, Philadelphia
 
 __2015__
 
-_Teaching Assistant_ - 262: Automata, Computability, and Complexity
+_Teaching Assistant_ - [262: Automata, Computability, and Complexity](https://www.seas.upenn.edu/~cse262/)
 
 > Revisited some of my favorite topics in Theory of Computation by helping students
 
-_Software Engineering Intern_ - Foursquare, New York
+_Software Engineering Intern_ - [Foursquare](https://foursquare.com/about), New York
 
 > Worked with an awesome team to send users location-based recommendations
 
-_Teaching Assistant_ - 120: Programming Languages and Techniques
+_Teaching Assistant_ - [120: Programming Languages and Techniques](https://www.seas.upenn.edu/~cis120/current/)
 
 > Brought cookies to recitation before every exam.
 
 __2014__    
 
-_?? Intern_ - Capvision Partners, Shanghai, China
+_?? Intern_ - [Capvision Partners](https://www.capvision.com/home/about_us), Shanghai, China
 
-> Came in as a marketing intern and convinced my manager to let me write an iOS app. Practiced my 普通话 through [song](https://www.youtube.com/watch?v=uDyo6IAnbVY) and upped my badminton game
+> Came in as a marketing intern and convinced my manager to let me write an iOS app (it is now much [fancier](https://www.capvision.com/app/download/)). Practiced my 普通话 through [song](https://www.youtube.com/watch?v=uDyo6IAnbVY) and upped my badminton game
 
-_Treasurer_ - oikos Penn
+_Treasurer_ - [oikos](https://oikos-international.org/) Penn
 
 > Went to St. Gallen, Switzerland and talked to some chill ppl about sustainability
 
@@ -57,7 +57,7 @@ _Brother At Large_ -  Pi Kappa Alpha
 
 __2013__
 
-_Product Development Intern_ - Resonate LLC, Berwyn, PA
+_Product Development Intern_ - [Sustrana ](http://www.sustrana.com/about/), Berwyn, PA
 
 > Spent a summer and a couple semesters learning about sustainability and software as a service. Realized how much more fun I would be having if I wrote code.
 

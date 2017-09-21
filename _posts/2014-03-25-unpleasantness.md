@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Curséd Siracha! (your green tip extends too high)
-description: "Unpleasantness? It's not a place, man, it's a state of mind."
+title: Unpleasantness
+description: "It's not a place, man, it's a state of mind."
 categories: writing nonfiction
 tags: travel featured
 ---

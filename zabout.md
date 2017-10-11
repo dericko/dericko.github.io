@@ -53,7 +53,7 @@ _Treasurer_ - [oikos](https://oikos-international.org/) Penn
 
 _Brother At Large_ -  Pi Kappa Alpha
 
-> Fulfilled an obscurely-named role designed to break tied votes in the executive board for an organization whose existence may or may not be legitimate
+> Fulfilled an obscurely-named role designed to break tied votes in the executive board for an organization whose existence I may or may not be opposed to
 
 __2013__
 

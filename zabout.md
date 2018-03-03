@@ -7,10 +7,6 @@ published: true
 
 Here's what I've been up to lately:
 
-__Current__
-
-_Taking a break from full-time software engineering to focus on writing_
-
 __2017__
 
 _Yoga Teacher Training_ - [Yoga Society of San Francisco](http://yogasocietysanfrancisco.com/)

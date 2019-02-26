@@ -13,7 +13,7 @@ _Yoga Teacher Training_ - [Yoga Society of San Francisco](http://yogasocietysanf
 
 > Lived and learned the fundamentals of yoga with a group of amazing yogis during a four month immersion program at Brahmananda Ashram
 
-_Software Engineer_ - [Remind](https://www.seas.upenn.edu/~cis120/current/), San Francisco
+_Software Engineer_ - [Remind](https://www.remind.com/), San Francisco
 
 > Worked with an extraordinary group of people to build a messaging platform for education
 

@@ -53,7 +53,7 @@ __2013__
 
 _Product Development Intern_ - [Sustrana](http://www.sustrana.com/about/), Berwyn, PA
 
-> Spent a summer and a couple semesters learning about sustainability and software as a service. Realized how much more fun I would be having if I were programming.
+> Spent a summer and a couple semesters learning about environmental sustainability and software as a service. Realized how much more fun I would be having if I were programming.
 
 __2012__
 

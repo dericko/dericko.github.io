@@ -169,6 +169,13 @@ a:visited { color: #205caa; }
 /* Page Content styles */
 /* ----------------------------------------------------------*/
 
+.subheader {
+  font-size: 18px;
+  font-style: initial;
+  font-style: italic;
+  color: #727272;
+}
+
 .page-content {
   padding: 30px 0;
   background-color: #fff;

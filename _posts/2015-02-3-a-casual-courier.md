@@ -3,7 +3,7 @@ layout: post
 title: "A Casual Courier"
 categories: writing fiction
 description: "Despite the titillating effects of more exotic items, Richard was in no way dissatisfied with the package on his lap as he road the first peak hour Metro-North train from his hometown of Ossining to the City."
-tags: featured
+tags:
 ---
 
 Despite the titillating effects of more exotic items, Richard was in no way dissatisfied with the package on his lap as he road the first peak hour Metro-North train from his hometown of Ossining to the City. His current package was mundane, which was not unwelcome in the aftermath of recent tragedies that surrounded what Richard referred to as the parcel in question. He was in fact comfortable or ’at ease’ with his current package contents, a quadruple set of 3-inch snow globes, each cast as one of the four annual seasons (substituting snow with bumble bees, dew drops, and auburn foliage in accordance to the tenets of the corresponding clime), as a sentimental token or reminder of a long-forgotten innocence free of loneliness and priorities common to an upper middle class single male, and individually wrapped in Styrofoam subsections that made up the solid yet lightweight interior of the cardboard package with a hand-written sticker on top that read:

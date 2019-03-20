@@ -3,7 +3,7 @@ layout: post
 title: "The Making of An Urban Ethnographer"
 description: "Sweet Maebelle. Here we are, modern citizens of the world and I’m practically a patriarch!"
 categories: writing fiction
-tags: featured
+tags:
 ---
 
 The dinner party was a painful affair. The Lafayettes sat together across the table, content in their private and professional lives. In between bites of roasted lamb I complimented my sweet Maebelle on her cooking, as to signal to our guests the happy state of our marriage.

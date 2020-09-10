@@ -4,8 +4,8 @@ email: hello@derickolson.com
 description: "Hi there, my name's Derick. I'm a student of languages (imperative, functional, figurative, semanto-phonetic)."
 baseurl: ""
 url: "http://www.derickolson.com"
-github_username: dericko
-linkedin_username: derickolson
+github_username:
+linkedin_username:
 highlighter: rouge
 
 # Build settings

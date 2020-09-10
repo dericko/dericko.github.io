@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-published: true
+published: false 
 ---
 
 Here's what I've been up to lately:
